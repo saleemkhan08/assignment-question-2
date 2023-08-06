@@ -19,3 +19,5 @@ function highlightHTMLContent(htmlContent, plainText, plainTextPositions) {
 
   return htmlContent;
 }
+
+module.exports = highlightHTMLContent;
